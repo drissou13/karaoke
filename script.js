@@ -512,6 +512,17 @@ const karaokeData = [
     artist: "bibie", 
     source: "YouTube", 
     videoUrl: "https://www.youtube.com/embed/l2TY97II2TM?si=TLE0R06kjP5zVLIE" 
+    { 
+    title: "Amstrong", 
+    artist: "Claude Nougaro", 
+    source:"YouTube", 
+    videoUrl: "https://www.youtube.com/embed/fg5YtmxZGZ4?si=CpezLV1FqKOEia2f" 
+   { 
+    title: "la boheme", 
+    artist: "charles aznavour", 
+    source:"YouTube", 
+    videoUrl: "https://www.youtube.com/embed/5aqvhsUW6B8?si=TtKKmNLCs1-9gP8z" 
+  
   },
   
   // Ajoutez d'autres titres avec leurs vidéos ici
