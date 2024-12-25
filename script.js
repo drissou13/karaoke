@@ -526,7 +526,12 @@ const karaokeData = [
     title: "Tous les garçons et les filles", 
     artist: "Françoise Hardy", 
     source:"YouTube", 
-    videoUrl: "https://www.youtube.com/embed/R74i4AWyAIY?si=YcqhMs0hZPQjZxsi" 
+    videoUrl: "https://www.youtube.com/embed/R74i4AWyAIY?si=YcqhMs0hZPQjZxsi"
+      }, { 
+    title: "Aline ", 
+    artist: "Christophe", 
+    source:"YouTube", 
+    videoUrl: "https://www.youtube.com/embed/EJa0OSwuvEA?si=kBvsJghbRTgZ0GhV"
   },
   
   // Ajoutez d'autres titres avec leurs vidéos ici
