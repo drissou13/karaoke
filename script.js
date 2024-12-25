@@ -521,8 +521,12 @@ const karaokeData = [
     title: "la boheme", 
     artist: "charles aznavour", 
     source:"YouTube", 
-    videoUrl: "https://www.youtube.com/embed/5aqvhsUW6B8?si=TtKKmNLCs1-9gP8z" 
-  
+    videoUrl: "https://www.youtube.com/embed/5aqvhsUW6B8?si=TtKKmNLCs1-9gP8z"
+     }, { 
+    title: "Tous les garçons et les filles", 
+    artist: "Françoise Hardy", 
+    source:"YouTube", 
+    videoUrl: "https://www.youtube.com/embed/R74i4AWyAIY?si=YcqhMs0hZPQjZxsi" 
   },
   
   // Ajoutez d'autres titres avec leurs vidéos ici
