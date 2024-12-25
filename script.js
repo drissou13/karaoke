@@ -532,6 +532,11 @@ const karaokeData = [
     artist: "Christophe", 
     source:"YouTube", 
     videoUrl: "https://www.youtube.com/embed/EJa0OSwuvEA?si=kBvsJghbRTgZ0GhV"
+       }, { 
+    title: " Last Christmas ", 
+    artist: "wham", 
+    source:"YouTube", 
+    videoUrl: "https://www.youtube.com/embed/02CVRyygf6Q?si=tPE2j5VKD7P1VaBJ"
   },
   
   // Ajoutez d'autres titres avec leurs vidéos ici
