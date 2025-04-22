@@ -674,19 +674,6 @@ document.addEventListener("DOMContentLoaded", () => {
         setTimeout(() => (document.body.style.transform = ""), 3000);
     });
 
-    // Easter Egg 4: Inactivité prolongée
-    let inactivityTimeout;
-    function resetInactivityTimer() {
-        clearTimeout(inactivityTimeout);
-        inactivityTimeout = setTimeout(() => {
-            alert("Vous êtes resté inactif trop longtemps... Joyeux Noël !");
-            document.body.style.background = "red";
-        }, 32000); // 3200 secondes d'inactivité
-    }
-    document.addEventListener("mousemove", resetInactivityTimer);
-    document.addEventListener("keydown", resetInactivityTimer);
-    resetInactivityTimer();
-
     // Easter Egg 5: Clics répétés
     let clickCount = 0;
     document.addEventListener("click", () => {
